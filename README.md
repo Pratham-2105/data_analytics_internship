@@ -1,4 +1,3 @@
-@"
 # Data Analytics Internship
 
 This repository contains the projects completed as part of the Data Analytics Internship.

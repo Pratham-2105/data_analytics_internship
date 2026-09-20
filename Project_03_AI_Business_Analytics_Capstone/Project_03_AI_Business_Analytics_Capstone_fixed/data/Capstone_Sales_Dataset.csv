@@ -1,0 +1,41 @@
+Product Name,Category,Month,Units Sold,Revenue,Region
+Wireless Mouse,Accessories,January,21,672,North
+Wireless Mouse,Accessories,February,23,805,South
+Wireless Mouse,Accessories,March,30,1140,East
+Wireless Mouse,Accessories,April,19,646,West
+Wireless Mouse,Accessories,May,26,962,North
+Mechanical Keyboard,Peripherals,January,12,876,East
+Mechanical Keyboard,Peripherals,February,13,988,West
+Mechanical Keyboard,Peripherals,March,26,1872,North
+Mechanical Keyboard,Peripherals,April,16,1200,South
+Mechanical Keyboard,Peripherals,May,13,1014,East
+USB-C Hub,Accessories,January,19,836,North
+USB-C Hub,Accessories,February,18,846,South
+USB-C Hub,Accessories,March,23,989,East
+USB-C Hub,Accessories,April,17,782,West
+USB-C Hub,Accessories,May,21,882,North
+Laptop Stand,Accessories,January,12,480,East
+Laptop Stand,Accessories,February,15,645,West
+Laptop Stand,Accessories,March,26,1014,North
+Laptop Stand,Accessories,April,16,672,South
+Laptop Stand,Accessories,May,16,608,East
+Webcam,Peripherals,January,14,854,North
+Webcam,Peripherals,February,13,741,South
+Webcam,Peripherals,March,20,1200,East
+Webcam,Peripherals,April,13,819,West
+Webcam,Peripherals,May,15,885,North
+Headphones,Audio,January,17,1479,East
+Headphones,Audio,February,17,1411,West
+Headphones,Audio,March,30,2580,North
+Headphones,Audio,April,21,1722,South
+Headphones,Audio,May,18,1530,East
+Power Bank,Accessories,January,23,759,North
+Power Bank,Accessories,February,25,725,South
+Power Bank,Accessories,March,32,1024,East
+Power Bank,Accessories,April,21,588,West
+Power Bank,Accessories,May,28,868,North
+Smartwatch,Wearables,January,10,920,East
+Smartwatch,Wearables,February,10,950,West
+Smartwatch,Wearables,March,21,2058,North
+Smartwatch,Wearables,April,12,1128,South
+Smartwatch,Wearables,May,10,970,East
